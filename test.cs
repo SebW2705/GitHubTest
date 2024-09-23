@@ -21,7 +21,6 @@ class Program
         {
             Console.WriteLine("This is loop iteration: " + i);
         }
-        
         // End the program
         Console.WriteLine("Program finished.");
     }
